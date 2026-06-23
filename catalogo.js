@@ -76,8 +76,17 @@ function renderizarProdutos(lista) {
                             R$ ${produto.preco}
                         </div>
 
+                        <a
+                            href="${produto.whatsapp || '#'}"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            class="btn btn-success w-100 mb-2"
+                        >
+                            Pedir no WhatsApp
+                        </a>
+
                         <button
-                            class="btn btn-success w-100 btn-detalhes"
+                            class="btn btn-outline-dark w-100 btn-detalhes"
                             data-id="${produto.id}"
                         >
                             Ver Detalhes
