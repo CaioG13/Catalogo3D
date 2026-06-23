@@ -23,30 +23,30 @@ function ativarEventosDetalhes() {
 
             const id = botao.dataset.id;
 
-            const produto = buscarProdutoPorId(id);
+            const produto = buscarProdutoPorId(Id);
 
             if (!produto) return;
 
             document.getElementById("modalTitulo").textContent =
-                produto.nome;
+                produto.Nome;
 
             document.getElementById("modalImagem").src =
-                produto.imagem;
+                produto.Imagem;
 
             document.getElementById("modalDescricao").textContent =
-                produto.descricao;
+                produto.Descricao;
 
             document.getElementById("modalPreco").textContent =
-                `R$ ${produto.preco}`;
+                `R$ ${produto.Preco}`;
 
             document.getElementById("modalPeso").textContent =
-                produto.peso || "-";
+                produto.Peso || "-";
 
             document.getElementById("modalTamanho").textContent =
-                produto.tamanho || "-";
+                produto.Tamanho || "-";
 
             document.getElementById("modalTempo").textContent =
-                 produto.tempoImpressao || "-";
+                 produto.TempoImpressao || "-";
 
                  
                 const containerCores =

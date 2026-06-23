@@ -1,179 +1,231 @@
 [
   {
-    "id": 1,
-    "nome": "Pinguim Low Poly",
-    "categoria": "Decoração",
-    "preco": "15,00",
-    "imagem": "img/pinguim.jpg",
-    "descricao": "Pinguim decorativo simples e fofo.",
-	"peso": "76,7 gramas",
-    "tamanho": "9,7 x 7,6 x 9 cm",
-    "tempoImpressao": "4h 18min"
+    "Id": 1,
+    "Nome": "Pinguim Low Poly",
+    "Categoria": [
+      "Decoração"
+    ],
+    "Preco": "15,00",
+    "Imagem": "img/pinguim.jpg",
+    "Descricao": "Pinguim decorativo simples e fofo.",
+    "Peso": "76,7 gramas",
+    "Tamanho": "9,7 x 7,6 x 9 cm",
+    "TempoImpressao": "4h 18min"
   },
   {
-    "id": 2,
-    "nome": "Capivara Low Poly",
-    "categoria": "Decoração",
-    "preco": "10,00 Grande - R$ 5,00 Chaveiro",
-    "imagem": "img/capivara.jpg",
-    "descricao": "Capivara decorativa, tambem disponivel em versão chaveiro.",
-	"peso": "20,5 gramas",
-    "tamanho": "4,6 x 7,9 x 5 cm",
-    "tempoImpressao": "1h 35min - 30Min (Chaveiro)"
-  },
-    {
-    "id": 3,
-    "nome": "Gatinho",
-    "categoria": "Decoração",
-    "preco": "3,00",
-    "imagem": "img/gatinho5g.jpg",
-    "descricao": "Gatinho pequeno tanto de decoração como de chaveiro.",
-	"peso": "5 gramas",
-    "tamanho": "2,5 x 3,3 x 3,5 cm",
-    "tempoImpressao": "30min"
+    "Id": 2,
+    "Nome": "Capivara Low Poly",
+    "Categoria": [
+      "Decoração"
+    ],
+    "Preco": "10,00 Grande - R$ 5,00 Chaveiro",
+    "Imagem": "img/capivara.jpg",
+    "Descricao": "Capivara decorativa, tambem disponivel em versão chaveiro.",
+    "Peso": "20,5 gramas",
+    "Tamanho": "4,6 x 7,9 x 5 cm",
+    "TempoImpressao": "1h 35min - 30Min (Chaveiro)"
   },
   {
-    "id": 4,
-    "nome": "Cesto Grande",
-    "categoria": "Organização",
-    "preco": "63,00",
-    "imagem": "img/Cesto30.jpg",
-    "descricao": "Cesto grande para organizar qualquer coisa na sua casa.",
-	  "peso": "204 gramas",
-    "tamanho": "20 x 20 x 13 cm",
-    "tempoImpressao": "25h"
-  },
-    {
-    "id": 5,
-    "nome": "Cesto Pequeno",
-    "categoria": "Organização",
-    "preco": "20,00",
-    "imagem": "img/cesto15.jpg",
-    "descricao": "Cesto pequeno pra guardar suas coisas.",
-	  "peso": "64,5 gramas",
-    "tamanho": "9,4 x 9,4 x 11 cm",
-    "tempoImpressao": "10h"
-  },
-      {
-    "id": 6,
-    "nome": "Porta joias empilhável",
-    "categoria": "Organização",
-    "preco": "15,00 unidade - R$ 40,00 3 unidades",
-    "imagem": "img/cesto15(2).jpg",
-    "descricao": "Porta joias empilhável, perfeito para guardar joias e outros objetos.",
-	  "peso": "71,5 gramas",
-    "tamanho": "10,6 x 10,6 x 4,8 cm",
-    "tempoImpressao": "5h 30min"
-  },
-        {
-    "id": 7,
-    "nome": "Trex Articulado",
-    "categoria": "Decoração",
-    "preco": "15,00",
-    "imagem": "img/DinoArticulado.jpg",
-    "descricao": "Trex articulado, feroz e divertido.",
-	  "peso": "32,5 gramas",
-    "tamanho": "8,6 x 14,8 x 3,1 cm",
-    "tempoImpressao": "3h 42min"
-  },
-        {
-    "id": 8,
-    "nome": "Porta Livro Gato",
-    "categoria": ["Utilidades" , "Decoração" , "Livros"],
-    "preco": "14,00",
-    "imagem": "img/PortaLivroGato1.jpg",
-    "descricao": "Porta Livro de gato, para apoiar seus livros com estilo.",
-	  "peso": "33,7 gramas",
-    "tamanho": "10,3 x 14,8 x 7,8 cm",
-    "tempoImpressao": "2h 2min"
-  },
-{
-    "id": 9,
-    "nome": "Vaso de Planta de Gato",
-    "categoria": ["Utilidades" , "Decoração"],
-    "preco": "18,00",
-    "imagem": "img/VasoGato.jpg",
-    "descricao": "Vaso de Planta de Gato fofo e delicado.",
-	  "peso": "65,8 gramas",
-    "tamanho": "7 x 9,8 x 10 cm",
-    "tempoImpressao": "3h 42min"
-  },
-{
-    "id": 10,
-    "nome": "Yoda Suporte para Celular",
-    "categoria": ["Utilidades" , "Geek"],
-    "preco": "18,00",
-    "imagem": "img/YodaSuporte.jpg",
-    "descricao": "Suporte para celular do Yoda, a força esta do seu lado.",
-	  "peso": "38 gramas",
-    "tamanho": "9,2 x 7,0 x 8,0 cm",
-    "tempoImpressao": "3h 10min"
-},
-  {
-    "id": 11,
-    "nome": "Marca Pagina Gatinho",
-    "categoria": ["Utilidades" , "livros"],
-    "preco": "2,00",
-    "imagem": "img/Marca Pagina Gatinho.jpg",
-    "descricao": "Marca pagina de gatinho muito fofo.",
-    "peso": "",
-    "tamanho": "",
-    "tempoImpressao": "15min"
+    "Id": 3,
+    "Nome": "Gatinho",
+    "Categoria": [
+      "Decoração"
+    ],
+    "Preco": "3,00",
+    "Imagem": "img/gatinho5g.jpg",
+    "Descricao": "Gatinho pequeno tanto de decoração como de chaveiro.",
+    "Peso": "5 gramas",
+    "Tamanho": "2,5 x 3,3 x 3,5 cm",
+    "TempoImpressao": "30min"
   },
   {
-    "id": 12,
-    "nome": "Buldog Francês Estiloso",
-    "categoria": ["Decoração" , "Animais"],
-    "preco": "10,00",
-    "imagem": "img/Buldog Francês Estiloso.jpg",
-    "descricao": "Buldog frances super estiloso de oculos.",
-    "peso": "",
-    "tamanho": "",
-    "tempoImpressao": "1h 24min"
+    "Id": 4,
+    "Nome": "Cesto Grande",
+    "Categoria": [
+      "Organização"
+    ],
+    "Preco": "63,00",
+    "Imagem": "img/Cesto30.jpg",
+    "Descricao": "Cesto grande para organizar qualquer coisa na sua casa.",
+    "Peso": "204 gramas",
+    "Tamanho": "20 x 20 x 13 cm",
+    "TempoImpressao": "25h"
   },
   {
-    "id": 13,
-    "nome": "Cachorro Labrador",
-    "categoria": ["Decoração" , "Animais"],
-    "preco": "15,00",
-    "imagem": "img/Cachorro Labrador.jpg",
-    "descricao": "Cachorrinho labrador fofo.",
-    "peso": "",
-    "tamanho": "",
-    "tempoImpressao": "3h 6min"
+    "Id": 5,
+    "Nome": "Cesto Pequeno",
+    "Categoria": [
+      "Organização"
+    ],
+    "Preco": "20,00",
+    "Imagem": "img/cesto15.jpg",
+    "Descricao": "Cesto pequeno pra guardar suas coisas.",
+    "Peso": "64,5 gramas",
+    "Tamanho": "9,4 x 9,4 x 11 cm",
+    "TempoImpressao": "10h"
   },
   {
-    "id": 14,
-    "nome": "Miniatura Samurai",
-    "categoria": ["Decoração", "Geek"],
-    "preco": "25,00",
-    "imagem": "img/Miniatura Samurai.jpg",
-    "descricao": "Miniatura de samurai detalhada.",
-    "peso": "",
-    "tamanho": "",
-    "tempoImpressao": "9h 12min"
-  },
-
-  { 
-    "id": 16,
-    "nome": "Suporte Multifuncional",
-    "categoria": ["Utilidades"],
-    "preco": "30,00",
-    "imagem": "img/Suporte Multifuncional.jpg",
-    "descricao": "suporte multifuncional para fone e porta caneta.",
-    "peso": "",
-    "tamanho": "",
-    "tempoImpressao": "3h 30min"
+    "Id": 6,
+    "Nome": "Porta joias empilhável",
+    "Categoria": [
+      "Organização"
+    ],
+    "Preco": "15,00 unidade - R$ 40,00 3 unidades",
+    "Imagem": "img/cesto15(2).jpg",
+    "Descricao": "Porta joias empilhável, perfeito para guardar joias e outros objetos.",
+    "Peso": "71,5 gramas",
+    "Tamanho": "10,6 x 10,6 x 4,8 cm",
+    "TempoImpressao": "5h 30min"
   },
   {
-    "id": 17,
-    "nome": "Suporte Minimalista para Celular",
-    "categoria": ["Utilidades"],
-    "preco": "8,00",
-    "imagem": "img/Suporte Minimalista para Celular.jpg",
-    "descricao": "suporte minimalista e compacto para celular e tablet.",
-    "peso": "",
-    "tamanho": "",
-    "tempoImpressao": "2h 25min"
+    "Id": 7,
+    "Nome": "Trex Articulado",
+    "Categoria": [
+      "Decoração"
+    ],
+    "Preco": "15,00",
+    "Imagem": "img/DinoArticulado.jpg",
+    "Descricao": "Trex articulado, feroz e divertido.",
+    "Peso": "32,5 gramas",
+    "Tamanho": "8,6 x 14,8 x 3,1 cm",
+    "TempoImpressao": "3h 42min"
+  },
+  {
+    "Id": 8,
+    "Nome": "Porta Livro Gato",
+    "Categoria": [
+      "Utilidades",
+      "Decoração",
+      "Livros"
+    ],
+    "Preco": "14,00",
+    "Imagem": "img/PortaLivroGato1.jpg",
+    "Descricao": "Porta Livro de gato, para apoiar seus livros com estilo.",
+    "Peso": "33,7 gramas",
+    "Tamanho": "10,3 x 14,8 x 7,8 cm",
+    "TempoImpressao": "2h 2min"
+  },
+  {
+    "Id": 9,
+    "Nome": "Vaso de Planta de Gato",
+    "Categoria": [
+      "Utilidades",
+      "Decoração"
+    ],
+    "Preco": "18,00",
+    "Imagem": "img/VasoGato.jpg",
+    "Descricao": "Vaso de Planta de Gato fofo e delicado.",
+    "Peso": "65,8 gramas",
+    "Tamanho": "7 x 9,8 x 10 cm",
+    "TempoImpressao": "3h 42min"
+  },
+  {
+    "Id": 10,
+    "Nome": "Yoda Suporte para Celular",
+    "Categoria": [
+      "Utilidades",
+      "Geek"
+    ],
+    "Preco": "18,00",
+    "Imagem": "img/YodaSuporte.jpg",
+    "Descricao": "Suporte para celular do Yoda, a força esta do seu lado.",
+    "Peso": "38 gramas",
+    "Tamanho": "9,2 x 7,0 x 8,0 cm",
+    "TempoImpressao": "3h 10min"
+  },
+  {
+    "Id": 11,
+    "Nome": "Marca Pagina Gatinho",
+    "Categoria": [
+      "Utilidades",
+      "livros"
+    ],
+    "Preco": "2,00",
+    "Imagem": "img/Marca Pagina Gatinho.jpg",
+    "Descricao": "Marca pagina de gatinho muito fofo.",
+    "Peso": "",
+    "Tamanho": "",
+    "TempoImpressao": "15min"
+  },
+  {
+    "Id": 12,
+    "Nome": "Buldog Francês Estiloso",
+    "Categoria": [
+      "Decoração",
+      "Animais"
+    ],
+    "Preco": "10,00",
+    "Imagem": "img/Buldog Francês Estiloso.jpg",
+    "Descricao": "Buldog frances super estiloso de oculos.",
+    "Peso": "",
+    "Tamanho": "",
+    "TempoImpressao": "1h 24min"
+  },
+  {
+    "Id": 13,
+    "Nome": "Cachorro Labrador",
+    "Categoria": [
+      "Decoração",
+      "Animais"
+    ],
+    "Preco": "15,00",
+    "Imagem": "img/Cachorro Labrador.jpg",
+    "Descricao": "Cachorrinho labrador fofo.",
+    "Peso": "",
+    "Tamanho": "",
+    "TempoImpressao": "3h 6min"
+  },
+  {
+    "Id": 14,
+    "Nome": "Miniatura Samurai",
+    "Categoria": [
+      "Decoração",
+      "Geek"
+    ],
+    "Preco": "25,00",
+    "Imagem": "img/Miniatura Samurai.jpg",
+    "Descricao": "Miniatura de samurai detalhada.",
+    "Peso": "",
+    "Tamanho": "",
+    "TempoImpressao": "9h 12min"
+  },
+  {
+    "Id": 16,
+    "Nome": "Suporte Multifuncional",
+    "Categoria": [
+      "Utilidades"
+    ],
+    "Preco": "30,00",
+    "Imagem": "img/Suporte Multifuncional.jpg",
+    "Descricao": "suporte multifuncional para fone e porta caneta.",
+    "Peso": "",
+    "Tamanho": "",
+    "TempoImpressao": "3h 30min"
+  },
+  {
+    "Id": 17,
+    "Nome": "Suporte Minimalista para Celular",
+    "Categoria": [
+      "Utilidades"
+    ],
+    "Preco": "8,00",
+    "Imagem": "img/Suporte Minimalista para Celular.jpg",
+    "Descricao": "suporte minimalista e compacto para celular e tablet.",
+    "Peso": "",
+    "Tamanho": "",
+    "TempoImpressao": "2h 25min"
+  },
+  {
+    "Id": 18,
+    "Nome": "Teste",
+    "Categoria": [
+      "Geek"
+    ],
+    "Preco": "12,00",
+    "Imagem": "img/Teste.png",
+    "Descricao": "233",
+    "Peso": "",
+    "Tamanho": "",
+    "TempoImpressao": "0h"
   }
 ]
