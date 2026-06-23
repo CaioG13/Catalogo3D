@@ -230,36 +230,5 @@
     "peso": "",
     "tamanho": "",
     "tempoImpressao": "2h 25min"
-  },
-  {
-    "id": 18,
-    "nome": "testye12",
-    "categoria": [
-      "Decoração",
-      "Anime",
-      "Organização"
-    ],
-    "preco": "12,00",
-    "imagem": "img/testye12.png",
-    "descricao": "vdsfds",
-    "whatsapp": "https://wa.me/5532999992585?text=Tenho%20interesse%20em%20testye12",
-    "peso": "",
-    "tamanho": "",
-    "tempoImpressao": "56h 1min"
-  },
-  {
-    "id": 19,
-    "nome": "teste2",
-    "categoria": [
-      "Decoração",
-      "Geek"
-    ],
-    "preco": "12,00",
-    "imagem": "img/teste2.jpeg",
-    "descricao": "ewwwew",
-    "whatsapp": "https://wa.me/5532999992585?text=Tenho%20interesse%20em%20teste2",
-    "peso": "2tonelada",
-    "tamanho": "1 ano luz",
-    "tempoImpressao": "2h"
   }
 ]
