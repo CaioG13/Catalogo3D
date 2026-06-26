@@ -359,5 +359,61 @@
     "peso": "64",
     "tamanho": "",
     "tempoImpressao": "3:30"
+  },
+  {
+    "id": 27,
+    "nome": "Porta-canetas",
+    "categoria": [
+      "Utilidades",
+      "Organização"
+    ],
+    "preco": "25,00",
+    "imagem": "img/Porta-canetas.jpeg",
+    "descricao": "",
+    "whatsapp": "https://wa.me/5532999992585?text=Tenho%20interesse%20em%20Porta-canetas",
+    "peso": "153",
+    "tamanho": "",
+    "tempoImpressao": "5h"
+  },
+  {
+    "id": 28,
+    "nome": "Porta-canetas de Gato Fofo",
+    "categoria": [
+      "Utilidades",
+      "Organização"
+    ],
+    "preco": "40,00",
+    "imagem": "img/Porta-canetas_de_Gato_Fofo.jpeg",
+    "descricao": "",
+    "whatsapp": "https://wa.me/5532999992585?text=Tenho%20interesse%20em%20Porta-canetas%20de%20Gato%20Fofo",
+    "peso": "253",
+    "tamanho": "",
+    "tempoImpressao": "6:40"
+  },
+  {
+    "id": 29,
+    "nome": "Chaveiro Nossa Senhora",
+    "categoria": [
+      "Outros"
+    ],
+    "preco": "2,00",
+    "imagem": "img/Chaveiro_Nossa_Senhora.jpeg",
+    "descricao": "",
+    "whatsapp": "https://wa.me/5532999992585?text=Tenho%20interesse%20em%20Chaveiro%20Nossa%20Senhora",
+    "peso": "2",
+    "tamanho": "14min",
+    "tempoImpressao": ""
+  },
+  {
+    "id": 30,
+    "nome": "Chaveiro de Cristal",
+    "categoria": [],
+    "preco": "2,50",
+    "imagem": "img/Chaveiro_de_Cristal.jpeg",
+    "descricao": "",
+    "whatsapp": "https://wa.me/5532999992585?text=Tenho%20interesse%20em%20Chaveiro%20de%20Cristal",
+    "peso": "2",
+    "tamanho": "",
+    "tempoImpressao": "35min"
   }
 ]
