@@ -230,5 +230,134 @@
     "peso": "",
     "tamanho": "",
     "tempoImpressao": "2h 25min"
+  },
+  {
+    "id": 18,
+    "nome": "Suporte fone ouvido",
+    "categoria": [
+      "Utilidades",
+      "Organização"
+    ],
+    "preco": "40,00",
+    "imagem": "img/Suporte_fone_ouvido.jpg",
+    "descricao": "",
+    "whatsapp": "https://wa.me/5532999992585?text=Tenho%20interesse%20em%20Suporte%20fone%20ouvido",
+    "peso": "",
+    "tamanho": "",
+    "tempoImpressao": ""
+  },
+  {
+    "id": 19,
+    "nome": "Suporte notebook Minimalista",
+    "categoria": [
+      "Utilidades"
+    ],
+    "preco": "27,00",
+    "imagem": "img/Suporte_notebook_Minimalista.jpg",
+    "descricao": "",
+    "whatsapp": "https://wa.me/5532999992585?text=Tenho%20interesse%20em%20Suporte%20notebook%20Minimalista",
+    "peso": "",
+    "tamanho": "",
+    "tempoImpressao": ""
+  },
+  {
+    "id": 20,
+    "nome": "Xadrez dobravel e poortatil",
+    "categoria": [
+      "Geek"
+    ],
+    "preco": "70,00",
+    "imagem": "img/Xadrez_dobravel_e_poortatil.jpeg",
+    "descricao": "",
+    "whatsapp": "https://wa.me/5532999992585?text=Tenho%20interesse%20em%20Xadrez%20dobravel%20e%20poortatil",
+    "peso": "",
+    "tamanho": "",
+    "tempoImpressao": ""
+  },
+  {
+    "id": 21,
+    "nome": "Anjo Personalizado",
+    "categoria": [
+      "Decoração"
+    ],
+    "preco": "10,00",
+    "imagem": "img/Anjo_Personalizado.jpeg",
+    "descricao": "",
+    "whatsapp": "https://wa.me/5532999992585?text=Tenho%20interesse%20em%20Anjo%20Personalizado",
+    "peso": "44",
+    "tamanho": "",
+    "tempoImpressao": "2:40"
+  },
+  {
+    "id": 22,
+    "nome": "Marcador de página com perfil Jane Austen",
+    "categoria": [
+      "Livros"
+    ],
+    "preco": "2,00",
+    "imagem": "img/Marcador_de_página_com_perfil_Jane_Austen.jpeg",
+    "descricao": "",
+    "whatsapp": "https://wa.me/5532999992585?text=Tenho%20interesse%20em%20Marcador%20de%20p%C3%A1gina%20com%20perfil%20Jane%20Austen",
+    "peso": "2",
+    "tamanho": "",
+    "tempoImpressao": "0:20"
+  },
+  {
+    "id": 23,
+    "nome": "marca texto de bridgertons",
+    "categoria": [
+      "Livros"
+    ],
+    "preco": "3,00",
+    "imagem": "img/marca_texto_de_bridgertons.jpeg",
+    "descricao": "",
+    "whatsapp": "https://wa.me/5532999992585?text=Tenho%20interesse%20em%20marca%20texto%20de%20bridgertons",
+    "peso": "17",
+    "tamanho": "",
+    "tempoImpressao": "1:40"
+  },
+  {
+    "id": 24,
+    "nome": "Organizador de Mesa de Escritório com Suporte de Telefone Integrado",
+    "categoria": [
+      "Utilidades",
+      "Organização"
+    ],
+    "preco": "45,00",
+    "imagem": "img/Organizador_de_Mesa_de_Escritório_com_Suporte_de_Telefone_Integrado.jpeg",
+    "descricao": "",
+    "whatsapp": "https://wa.me/5532999992585?text=Tenho%20interesse%20em%20Organizador%20de%20Mesa%20de%20Escrit%C3%B3rio%20com%20Suporte%20de%20Telefone%20Integrado",
+    "peso": "270",
+    "tamanho": "",
+    "tempoImpressao": "8:00"
+  },
+  {
+    "id": 25,
+    "nome": "Chaveiro Anjo da Guarda",
+    "categoria": [
+      "Outros"
+    ],
+    "preco": "3,00",
+    "imagem": "img/Chaveiro_Anjo_da_Guarda.jpeg",
+    "descricao": "",
+    "whatsapp": "https://wa.me/5532999992585?text=Tenho%20interesse%20em%20Chaveiro%20Anjo%20da%20Guarda",
+    "peso": "4",
+    "tamanho": "",
+    "tempoImpressao": "1:10"
+  },
+  {
+    "id": 26,
+    "nome": "Vaso Moderno para Suculentas e Cactos",
+    "categoria": [
+      "Decoração",
+      "Utilidades"
+    ],
+    "preco": "15,00",
+    "imagem": "img/Vaso_Moderno_para_Suculentas_e_Cactos.jpeg",
+    "descricao": "",
+    "whatsapp": "https://wa.me/5532999992585?text=Tenho%20interesse%20em%20Vaso%20Moderno%20para%20Suculentas%20e%20Cactos",
+    "peso": "64",
+    "tamanho": "",
+    "tempoImpressao": "3:30"
   }
 ]
