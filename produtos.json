@@ -240,7 +240,7 @@
     ],
     "preco": "40,00",
     "imagem": "img/Suporte_fone_ouvido.jpg",
-    "descricao": "",
+    "descricao": "Suporte para fone de ouvido",
     "whatsapp": "https://wa.me/5532999992585?text=Tenho%20interesse%20em%20Suporte%20fone%20ouvido",
     "peso": "",
     "tamanho": "",
@@ -254,7 +254,7 @@
     ],
     "preco": "27,00",
     "imagem": "img/Suporte_notebook_Minimalista.jpg",
-    "descricao": "",
+    "descricao": "suporte minimalista para notebook",
     "whatsapp": "https://wa.me/5532999992585?text=Tenho%20interesse%20em%20Suporte%20notebook%20Minimalista",
     "peso": "",
     "tamanho": "",
@@ -268,7 +268,7 @@
     ],
     "preco": "70,00",
     "imagem": "img/Xadrez_dobravel_e_poortatil.jpeg",
-    "descricao": "",
+    "descricao": "xadrez dobrabel e portatil otimo para carregar para viagens",
     "whatsapp": "https://wa.me/5532999992585?text=Tenho%20interesse%20em%20Xadrez%20dobravel%20e%20poortatil",
     "peso": "",
     "tamanho": "",
@@ -280,56 +280,56 @@
     "categoria": [
       "Decoração"
     ],
-    "preco": "10,00",
+    "preco": "20,00",
     "imagem": "img/Anjo_Personalizado.jpeg",
-    "descricao": "",
+    "descricao": "Anjinho personalizado com nome e data (de nacimento ou batismo)",
     "whatsapp": "https://wa.me/5532999992585?text=Tenho%20interesse%20em%20Anjo%20Personalizado",
-    "peso": "44",
+    "peso": "44 gramas",
     "tamanho": "",
-    "tempoImpressao": "2:40"
+    "tempoImpressao": "2h 24min"
   },
   {
     "id": 22,
-    "nome": "Marcador de página com perfil Jane Austen",
-    "categoria": [
-      "Livros"
-    ],
-    "preco": "2,00",
-    "imagem": "img/Marcador_de_página_com_perfil_Jane_Austen.jpeg",
-    "descricao": "",
-    "whatsapp": "https://wa.me/5532999992585?text=Tenho%20interesse%20em%20Marcador%20de%20p%C3%A1gina%20com%20perfil%20Jane%20Austen",
-    "peso": "2",
-    "tamanho": "",
-    "tempoImpressao": "0:20"
-  },
-  {
-    "id": 23,
-    "nome": "marca texto de bridgertons",
+    "nome": "Marca página com perfil Jane Austen",
     "categoria": [
       "Livros"
     ],
     "preco": "3,00",
-    "imagem": "img/marca_texto_de_bridgertons.jpeg",
-    "descricao": "",
-    "whatsapp": "https://wa.me/5532999992585?text=Tenho%20interesse%20em%20marca%20texto%20de%20bridgertons",
-    "peso": "17",
+    "imagem": "img/Marcador_de_página_com_perfil_Jane_Austen.jpeg",
+    "descricao": "marca pagina da autora Jane Austen",
+    "whatsapp": "https://wa.me/5532999992585?text=Tenho%20interesse%20em%20Marcador%20de%20p%C3%A1gina%20com%20perfil%20Jane%20Austen",
+    "peso": "2 gramas",
     "tamanho": "",
-    "tempoImpressao": "1:40"
+    "tempoImpressao": "20min"
+  },
+  {
+    "id": 23,
+    "nome": "Marca pagina de Bridgertons",
+    "categoria": [
+      "Livros"
+    ],
+    "preco": "5,00",
+    "imagem": "img/marca_texto_de_bridgertons.jpeg",
+    "descricao": "Marca pagina lindo de Bridgertons",
+    "whatsapp": "https://wa.me/5532999992585?text=Tenho%20interesse%20em%20marca%20texto%20de%20bridgertons",
+    "peso": "17 gramas",
+    "tamanho": "",
+    "tempoImpressao": "1h 26min"
   },
   {
     "id": 24,
-    "nome": "Organizador de Mesa de Escritório com Suporte de Telefone Integrado",
+    "nome": "Organizador de Mesa de Escritório",
     "categoria": [
       "Utilidades",
       "Organização"
     ],
-    "preco": "45,00",
+    "preco": "65,00",
     "imagem": "img/Organizador_de_Mesa_de_Escritório_com_Suporte_de_Telefone_Integrado.jpeg",
-    "descricao": "",
+    "descricao": "Organizador de mesa com suporte para o seu celular e varios objetos",
     "whatsapp": "https://wa.me/5532999992585?text=Tenho%20interesse%20em%20Organizador%20de%20Mesa%20de%20Escrit%C3%B3rio%20com%20Suporte%20de%20Telefone%20Integrado",
-    "peso": "270",
+    "peso": "270 gramas",
     "tamanho": "",
-    "tempoImpressao": "8:00"
+    "tempoImpressao": "8h"
   },
   {
     "id": 25,
@@ -337,13 +337,13 @@
     "categoria": [
       "Outros"
     ],
-    "preco": "3,00",
+    "preco": "4,00",
     "imagem": "img/Chaveiro_Anjo_da_Guarda.jpeg",
-    "descricao": "",
+    "descricao": "chaveiro de anjo da guarda lindo",
     "whatsapp": "https://wa.me/5532999992585?text=Tenho%20interesse%20em%20Chaveiro%20Anjo%20da%20Guarda",
-    "peso": "4",
+    "peso": "4 gramas",
     "tamanho": "",
-    "tempoImpressao": "1:10"
+    "tempoImpressao": "1h 8min"
   },
   {
     "id": 26,
@@ -352,13 +352,13 @@
       "Decoração",
       "Utilidades"
     ],
-    "preco": "15,00",
+    "preco": "20,00",
     "imagem": "img/Vaso_Moderno_para_Suculentas_e_Cactos.jpeg",
-    "descricao": "",
+    "descricao": "um vaso estilo moderno para suas plantas de mesa",
     "whatsapp": "https://wa.me/5532999992585?text=Tenho%20interesse%20em%20Vaso%20Moderno%20para%20Suculentas%20e%20Cactos",
-    "peso": "64",
+    "peso": "64 gramas",
     "tamanho": "",
-    "tempoImpressao": "3:30"
+    "tempoImpressao": "3h 19min"
   },
   {
     "id": 27,
@@ -367,11 +367,11 @@
       "Utilidades",
       "Organização"
     ],
-    "preco": "25,00",
+    "preco": "30,00",
     "imagem": "img/Porta-canetas.jpeg",
-    "descricao": "",
+    "descricao": "porta canetas sofisticado e com partições",
     "whatsapp": "https://wa.me/5532999992585?text=Tenho%20interesse%20em%20Porta-canetas",
-    "peso": "153",
+    "peso": "153 gramas",
     "tamanho": "",
     "tempoImpressao": "5h"
   },
@@ -382,13 +382,13 @@
       "Utilidades",
       "Organização"
     ],
-    "preco": "40,00",
+    "preco": "50,00",
     "imagem": "img/Porta-canetas_de_Gato_Fofo.jpeg",
-    "descricao": "",
+    "descricao": "porta canetas fofissemo de gatinho, resistente e adoravel",
     "whatsapp": "https://wa.me/5532999992585?text=Tenho%20interesse%20em%20Porta-canetas%20de%20Gato%20Fofo",
-    "peso": "253",
+    "peso": "253 gramas",
     "tamanho": "",
-    "tempoImpressao": "6:40"
+    "tempoImpressao": "6h 30min"
   },
   {
     "id": 29,
@@ -398,21 +398,21 @@
     ],
     "preco": "2,00",
     "imagem": "img/Chaveiro_Nossa_Senhora.jpeg",
-    "descricao": "",
+    "descricao": "chaveiro de nossa senhora, perfeito para brindes ou lembracinhas",
     "whatsapp": "https://wa.me/5532999992585?text=Tenho%20interesse%20em%20Chaveiro%20Nossa%20Senhora",
-    "peso": "2",
-    "tamanho": "14min",
-    "tempoImpressao": ""
+    "peso": "2 gramas",
+    "tamanho": "",
+    "tempoImpressao": "14min"
   },
   {
     "id": 30,
     "nome": "Chaveiro de Cristal",
     "categoria": [],
-    "preco": "2,50",
+    "preco": "4,00",
     "imagem": "img/Chaveiro_de_Cristal.jpeg",
-    "descricao": "",
+    "descricao": " chaveiro de cristal losangular",
     "whatsapp": "https://wa.me/5532999992585?text=Tenho%20interesse%20em%20Chaveiro%20de%20Cristal",
-    "peso": "2",
+    "peso": "2 gramas",
     "tamanho": "",
     "tempoImpressao": "35min"
   }
